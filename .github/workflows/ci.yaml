@@ -11,9 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Collect Workflow Telemetry
-      uses: catchpoint/workflow-telemetry-action@v2
-    
+      
     - name: Pegar o código
       uses: actions/checkout@v3
       
