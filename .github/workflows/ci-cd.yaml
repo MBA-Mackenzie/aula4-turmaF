@@ -50,7 +50,7 @@ jobs:
             print(f'➡ Status do Pipeline: Saudável (Healthy)')
 
             except Exception as e:
-                print('Erro ao gerar relatório:', e)        "
+                print('Erro ao gerar relatório:', e)
         echo "========================================================="
 
     - name: Notificar Sucesso da Esteira
