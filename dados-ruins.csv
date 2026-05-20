@@ -1,6 +1,6 @@
 id,nome,valor
 1,Computador,10000
 2,Tablet,2000
-3,Mouse,150
-4,Teclado,500
+3,,150
+4,Teclado,-500
 5,Monitor Gamer,2300
